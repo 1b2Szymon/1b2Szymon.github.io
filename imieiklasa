@@ -1,0 +1,18 @@
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Project: Name</title>
+        <meta charset="utf-8">
+    </head>
+    <style>
+    h1 {
+     background-color:rgb(150, 155, 213);
+    }
+    
+    
+    </style>
+    <body>
+        <h1>Szymon 1b</h1>
+    </body>
+</html>
